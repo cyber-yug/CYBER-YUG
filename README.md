@@ -27,16 +27,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cyber-yug&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=cyber-yug&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-yug&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cyber-yug&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
