@@ -23,22 +23,6 @@
 </p>  
 
 ---
-
-## 📌 Projects Worth Checking  
-🔥 **Pocket Buddy** – MERN app for restaurant offers + role-based access  
-⚡ **MediSync** – Smart healthcare platform  
-📊 **Excel Analytics Platform** – Making enterprises *fall in love with data* again  
-
----
-
-## 📊 My GitHub Universe  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight" height="170"/>
-</p>  
-
----
-
 ## 🕶 A Fun Flex  
 ```text
 > run yug.exe
