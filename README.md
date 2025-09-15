@@ -9,7 +9,7 @@
 🔒 I break systems (ethically) to make them unbreakable.  
 🌌 Mission: To blend **development + data + defense** into one superpower.  
 
----https://www.linkedin.com/in/yug-patel-287186307?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7QwcpK0MRECwhIQ48SWp9A%3D%3D
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.yugpatel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yug-patel-287186307) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuga060601@gmail.com) 
