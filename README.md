@@ -35,10 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-yug&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cyber-yug&theme=tokyonight&row=1&column=6" />
-</p>
-
 ---
 ## 🕶 A Fun Flex  
 ```text
